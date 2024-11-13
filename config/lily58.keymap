@@ -41,10 +41,10 @@
             //                     |      |      |      |        |  |       |      |       |       |
 
             bindings = <
-&kp F1      &kp F2                &kp F3                &kp F4                &kp F5                &kp F6                            &kp F7                &kp F8          &kp F9          &kp F10         &kp F11   &kp F12
-&trans      &kp RA(LG(NUMBER_1))  &kp RA(LG(NUMBER_2))  &kp RA(LG(NUMBER_3))  &kp RA(LG(NUMBER_4))  &kp RA(LG(N5))                    &kp RA(LG(NUMBER_6))  &kp RA(LG(N7))  &kp RA(LG(N8))  &kp LG(RA(N9))  &kp F11   &kp F12
-&kp TAB     &kp LC(A)             &kp LA(RG(S))         &kp RA(LG(D))         &kp LC(LA(F))         &kp LC(SPACE)                     &kp LA(RG(H))         &kp RA(LG(J))   &kp LA(RG(K))   &kp RA(LG(L))   &kp RPAR  &kp TILDE
-&bt BT_CLR  &bt BT_SEL 0          &bt BT_SEL 1          &bt BT_SEL 2          &bt BT_SEL 3          &bt BT_SEL 4    &trans    &trans  &ext_power EP_ON      &kp MINUS       &kp KP_PLUS     &kp LBRC        &kp RBRC  &kp PIPE
+&kp F1              &kp F2                &kp F3                &kp F4                &kp F5                &kp F6                            &kp F7                &kp F8          &kp F9          &kp F10         &kp F11   &kp F12
+&studio_unlock      &kp RA(LG(NUMBER_1))  &kp RA(LG(NUMBER_2))  &kp RA(LG(NUMBER_3))  &kp RA(LG(NUMBER_4))  &kp RA(LG(N5))                    &kp RA(LG(NUMBER_6))  &kp RA(LG(N7))  &kp RA(LG(N8))  &kp LG(RA(N9))  &kp F11   &kp F12
+&kp TAB             &kp LC(A)             &kp LA(RG(S))         &kp RA(LG(D))         &kp LC(LA(F))         &kp LC(SPACE)                     &kp LA(RG(H))         &kp RA(LG(J))   &kp LA(RG(K))   &kp RA(LG(L))   &kp RPAR  &kp TILDE
+&bt BT_CLR          &bt BT_SEL 0          &bt BT_SEL 1          &bt BT_SEL 2          &bt BT_SEL 3          &bt BT_SEL 4    &trans    &trans  &ext_power EP_ON      &kp MINUS       &kp KP_PLUS     &kp LBRC        &kp RBRC  &kp PIPE
                                                         &trans                &trans                &trans          &trans    &trans  &trans                &trans          &trans
             >;
 
